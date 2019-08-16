@@ -820,4 +820,5 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [Jonikiro's Solution](https://github.com/Jonikiro/rock_paper_scissors_odin)
 - [Randolph Cisneros' Solution](https://randolphcisneros.github.io/rock-paper-scissors/)
 - [Tomstrat's Solution](https://github.com/tomstrat/rock-paper-scissors)
+- [Patrick Smyth's Solution](https://github.com/PatrickSmyth-UEL/rock-paper-scissors)
 </details>
